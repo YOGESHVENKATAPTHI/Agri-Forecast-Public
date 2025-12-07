@@ -2,6 +2,8 @@
 
 A comprehensive agricultural prediction platform that leverages AI to provide intelligent crop recommendations, real-time weather monitoring, drought alerts, and data-driven farming insights.
 
+Production Url: https://agri-forecast-7g7m.onrender.com/
+
 ## Features
 
 - **User Authentication**: Secure login system with Replit Auth integration
@@ -173,4 +175,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 For support, please open an issue on GitHub or contact the maintainers.</content>
+
 <parameter name="filePath">d:\yogesh\AgriPredict\README.md
